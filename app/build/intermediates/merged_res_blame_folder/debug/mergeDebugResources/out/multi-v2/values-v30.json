@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.shadownet.calculator.app-mergeDebugResources-46:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "/home/zayne/.gradle/caches/9.7.1/transforms/0ef0d080988cb206537d778e656b009c/transformed/material3-release/res/values-v30/values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
